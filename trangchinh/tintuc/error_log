@@ -1,0 +1,7 @@
+[19-Jan-2024 10:31:42 UTC] PHP Warning:  A non-numeric value encountered in /home/orggenj2/public_html/trangchu/tintuc/tintrongloai.php on line 17
+[19-Jan-2024 10:31:42 UTC] PHP Notice:  Undefined offset: 0 in /home/orggenj2/public_html/trangchu/tintuc/tintrongloai.php on line 26
+[19-Jan-2024 10:31:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/orggenj2/public_html/trangchu/tintuc/tintrongloai.php on line 26
+[19-Jan-2024 10:31:42 UTC] PHP Notice:  Undefined offset: 0 in /home/orggenj2/public_html/trangchu/tintuc/tintrongloai.php on line 27
+[19-Jan-2024 10:31:42 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/orggenj2/public_html/trangchu/tintuc/tintrongloai.php on line 27
+[19-Jan-2024 10:31:42 UTC] PHP Warning:  A non-numeric value encountered in /home/orggenj2/public_html/trangchu/tintuc/tintrongloai.php on line 62
+[19-Jan-2024 10:31:42 UTC] PHP Warning:  A non-numeric value encountered in /home/orggenj2/public_html/trangchu/tintuc/tintrongloai.php on line 63

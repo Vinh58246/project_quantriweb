@@ -1,0 +1,1472 @@
+# Translation of Themes - Ashe in Vietnamese
+# This file is distributed under the same license as the Themes - Ashe package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-01-12 08:08:56+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Ashe\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Personal and Multi-Author Free WordPress Blog Theme. Perfect for personal, lifestyle, health & fitness, food, cooking, bakery, travel, beauty, fashion, wedding, photography, news, quotes blog, auto blog, small business website and any other kind of amazing blogs. Minimal, elegant & mobile friendly layout with WooCommerce shop (storefront) support will WOW and inspire your visitors. Well documented and very easy to use even for WordPress beginners. Clean and Modern Responsive design will perfectly showcase your content on any device, even on tablet, mobile & retina displays. Very fast, compatibility with many popular plugins & of course translation & RTL (right to left language) ready, coded with best SEO practices. The theme has features like Text & Image logo, Fullscreen Slider, Header image, Instagram slider widget support, footer menu support, GDPR compatibility plugins support and many more. Works perfectly with all major drag and drop page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi. You just need to write and be awesome! TEMPLATE DEMO: https://ashe-free.wp-royal-themes.com/demo/"
+msgstr "Theme WordPress miễn phí cho blog cá nhân và nhiều tác giả. Phù hợp cho blog cá nhân, thời trang, sức khỏe, ẩm thực, nấu ăn, bánh, sắc đẹp, cưới hỏi, chụp ảnh, tin tức, danh ngôn, xe cộ, web doanh nghiệp nhỏ và nhiều kiểu blog khác. Bố cục tối giản, thanh lịch và thân thiện di động, hỗ trợ WooCommerce (storefront) sẽ tạo cảm hứng cho người truy cập vào web. Hướng dẫn chi tiết, rõ ràng và dễ sử dụng cho người mới. Thiết kế responsive hiện đại và sạch sẽ sẽ hiển thị nội dung hoàn hảo trên mọi thiết bị, cả trên máy tính bảng, điện thoại & màn hình retina. Nhanh, tương thích với nhiều plugin nổi tiếng & hỗ trợ RTL (ngôn ngữ từ phải qua trái), tối ưu SEO. Theme có nhiều tính năng như Logo dạng chữ & Ảnh, Slider tràn màn hình, Ảnh đầu trang, Hỗ trợ widget Instagram Slider, hỗ trợ menu cuối trang, tương thích GDPR và nhiều nữa. Làm việc tốt với hầu hết các page builder phổ biến như Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi. Xem demo tại: https://ashe-free.wp-royal-themes.com/demo/"
+
+#. Theme Name of the theme
+#: inc/about/about-ashe.php:437
+#, gp-priority: high
+msgid "Ashe"
+msgstr "Ashe"
+
+#: inc/about/about-ashe.php:69
+msgid "Setup Instagram"
+msgstr "Cài đặt Instagram"
+
+#: inc/customizer/customizer.php:1062
+msgid "Show Tumblr"
+msgstr "Hiển thị Tumblr"
+
+#: inc/customizer/customizer.php:1059
+msgid "Show Reddit"
+msgstr "Hiển thị Reddit"
+
+#: inc/customizer/customizer.php:1056
+msgid "Show Linkedin"
+msgstr "Hiển thị Linkedin"
+
+#: inc/customizer/customizer.php:1050
+msgid "Show Pinterest"
+msgstr "Hiển thị Pinterest"
+
+#: inc/customizer/customizer.php:1047
+msgid "Show Twitter"
+msgstr "Hiển thị Twitter"
+
+#: inc/customizer/customizer.php:1044
+msgid "Show Facebook"
+msgstr "Hiển thị Facebook"
+
+#: inc/customizer/customizer.php:838
+msgid "Posts"
+msgstr "Bài viết"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:550
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:579
+msgid "Remove Icon"
+msgstr "Xóa icon"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:532
+msgid "Social icons"
+msgstr "Social Icon"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:522
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:519
+msgid "Image type"
+msgstr "Kiểu ảnh"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:512
+msgid "Upload Image"
+msgstr "Tải ảnh lên"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:555
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:587
+msgid "Add Icon"
+msgstr "Thêm icon"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:323
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:444
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:315
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:437
+msgid "Link"
+msgstr "Liên kết"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:308
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:423
+msgid "Text"
+msgstr "Văn bản"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:301
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:416
+msgid "Open Link in New Tab"
+msgstr "Mở liên kết trong tab mới"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:293
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:409
+msgid "Slide Link"
+msgstr "Liên kết slide"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:286
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:402
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:430
+msgid "Button Text"
+msgstr "Văn bản nút bấm"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:279
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:395
+msgid "Description"
+msgstr "Mô tả"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:272
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:388
+msgid "Subtitle"
+msgstr "Phụ đề"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:248
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:257
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:365
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:373
+msgid "Color"
+msgstr "Màu sắc"
+
+#: inc/customizer/customizer.php:828 inc/customizer/customizer.php:950
+msgid "Front Page"
+msgstr "Trang chủ"
+
+#: inc/customizer/customizer.php:837
+msgid "Custom"
+msgstr "Tùy chỉnh"
+
+#: inc/customizer/customizer.php:834
+msgid "Display Slider on"
+msgstr "Hiển thị Slider ở"
+
+#: inc/customizer/customizer.php:830 inc/customizer/customizer.php:952
+msgid "Front and Posts Pages"
+msgstr "Trang chủ và bài viết"
+
+#: inc/customizer/customizer.php:829 inc/customizer/customizer.php:951
+msgid "Posts Page"
+msgstr "Trang danh sách bài viết"
+
+#: inc/customizer/customizer.php:810
+msgid "Logo Width"
+msgstr "Chiều rộng logo"
+
+#: inc/customizer/customizer.php:807
+msgid "Logo Upload"
+msgstr "Tải lên Logo"
+
+#: inc/customizer/customizer.php:428
+msgid "Please Note: "
+msgstr "Chú ý:"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:36
+msgid "Add new field"
+msgstr "Thêm trường"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:338
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:454
+msgid "Delete field"
+msgstr "Xóa trường"
+
+#: inc/customizer/customizer.php:956
+msgid "Display Featured Links on"
+msgstr "Hiển thị liên kết nổi bật ở"
+
+#: inc/customizer/customizer.php:879
+msgid "Slider Item"
+msgstr "Slider Item"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:508
+msgid "Slide Background"
+msgstr "Nền Slide"
+
+#: inc/customizer/customizer.php:519
+msgid "After activating non-default skin, you will NOT be able to take control over skin colors. These options are only available in the Ashe PRO."
+msgstr "Sau khi kích hoạt một skin không phải mặc định, bạn sẽ KHÔNG thể tùy chỉnh màu sắc skin. Những tùy chọn này chỉ có trong phiên bản Ashe PRO."
+
+#: inc/customizer/customizer.php:497 inc/customizer/customizer.php:563
+msgid "Skins"
+msgstr "Skin"
+
+#: inc/customizer/customizer.php:509
+msgid "Select Theme Skin"
+msgstr "Chọn Skin"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:41
+msgid "Customizer Repeater"
+msgstr "Tùy chỉnh lặp lại"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Theme cần cài đặt các plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Có bản cập nhật cho: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin cần thiết sau đang bị ngừng kích hoạt: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Các plugin cần thiết sau đang bị ngừng kích hoạt: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Theme cần cài đặt các plugin: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Các plugin sau cần được cập nhật lên bản mới nhất để luôn tương thích với theme: %1$s."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ẩn chi tiết"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Hiện chi tiết"
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Có một hoặc nhiều plugin cần được cài đặt, cập nhật hoặc kích hoạt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Cập nhật"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Cập nhật %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Cài đặt %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Trạng thái"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Phiên bản"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Kiểu"
+
+#: inc/customizer/customizer.php:842
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Nguồn"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Không có plugin để cài đặt, cập nhặt hoặc kích hoạt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Phiên bản có sẵn:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Phiên bản tối thiểu:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Phiên bản đã cài đặt:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "không biết"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Cập nhật có sẵn <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Để cài đặt <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Để kích hoạt <span class=\"count\">(%s)</span>"
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Tắt thông báo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Cập nhật cần thiết"
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin cần được cập nhật để tương thích với theme."
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Hãy liên hệ chủ trang web để được hỗ trợ."
+
+#. translators: 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tất cả plugin đã được cài đặt và kích hoạt thành công. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin chưa kích hoạt. Bạn cần cài phiên bản cao hơn của %s. Hãy cập nhật plugin."
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Đã kích hoạt plugin."
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Đã kích hoạt các plugin sau:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Quay về Bảng tin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Bắt đầu kích hoạt plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Bắt đầu cập nhật plugin"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cài và kích hoạt plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Đang cài đặt. Quá trình có thể mất nhiều thời gian với một số hosting, hãy kiên nhẫn."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Lỗi khi cài đặt %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Đang cập nhật plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Kích hoạt plugin thất bại."
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tất cả <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Đã cài nhưng chưa kích hoạt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Chưa cài đặt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Khuyên dùng"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Bắt buộc"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "và"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Không có plugin để kích hoạt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Chưa chọn plugin để kích hoạt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Chưa có plugin cần được cập nhật."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Chưa chọn plugin để cập nhật."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Chưa chọn plugin để cài đặt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Cài đặt"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Tin nhắn nâng cấp từ tác giả plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Kích hoạt %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Cập nhật bắt buộc"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Yêu cầu cập nhật"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Không có yêu cầu cập nhật"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Đã hoàn thành tất cả cài đặt."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s đã cài đặt thành công."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Đã hoàn thành tất cả cài đặt và kích hoạt."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s cài đặt và kích hoạt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Đang cài đặt. Quá trình có thể mất nhiều thời gian với một số hosting, hãy kiên nhẫn."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Cài đặt %1$s thất bại."
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Quay về trang cài đặt plugin cần thiết"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Plugin %1$s đã kích hoạt rồi."
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Bắt đầu cài đặt plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Không có plugin để cài đặt."
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Gói plugin từ xa bao có nhiều tệp, nhưng các tệp không được đóng gói trong một thư mục."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Vui lòng liên hệ với nhà cung cấp plugin và yêu cầu họ đóng gói plugin theo hướng dẫn của WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Gói plugin từ xa không chứa thư mục với slug phù hợp và việc đổi tên không hoạt động."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Nguồn bên ngoài"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Đóng gói sẵn"
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Cài đặt các plugin bắt buộc"
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Lỗi gì đó với API Plugin."
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Đang cập nhật plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Đang cài đặt plugin: %s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Cài đặt plugin"
+
+#: inc/about/about-ashe.php:323
+msgid "Customize Blog Page"
+msgstr "Tùy chỉnh Blog Page"
+
+#: inc/about/about-ashe.php:318
+msgid "Customize General Layouts"
+msgstr "Tùy chỉnh giao diện chung"
+
+#: inc/about/about-ashe.php:303
+msgid "Setup Random Header Images"
+msgstr "Cài đặt ảnh header ngẫu nhiên"
+
+#: inc/customizer/customizer.php:1338
+msgid "These options will only apply to Mobile devices."
+msgstr "Những tùy chọn này chỉ xuất hiện trên Di động."
+
+#: inc/customizer/customizer.php:1337
+msgid "Responsive"
+msgstr "Responsive"
+
+#: inc/customizer/customizer.php:1298
+msgid "Show Scroll-Top Button"
+msgstr "Hiển thị nút Quay về đầu trang"
+
+#: inc/customizer/customizer.php:1354
+msgid "Show Related Posts"
+msgstr "Hiển thị bài viết liên quan"
+
+#: inc/customizer/customizer.php:1351
+msgid "Show Featured Links"
+msgstr "Hiển thị liên kết nổi bật"
+
+#: inc/customizer/customizer.php:1348
+msgid "Show Featured Slider"
+msgstr "Hiển thị slider nổi bật"
+
+#: inc/customizer/customizer.php:1345
+msgid "Merge Top and Main Menus"
+msgstr "Gộp menu chính và menu trên"
+
+#: inc/about/about-ashe.php:515
+msgid "View Full Feature List"
+msgstr "Xem danh sách tính năng đầy đủ"
+
+#: inc/about/about-ashe.php:505
+msgid "Premium Support 24/7"
+msgstr "Hỗ trợ ưu tiên 24/7"
+
+#: 404.php:8
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Không thấy nội dung tìm kiếm. Hãy thử tìm kiếm khác."
+
+#: inc/about/about-ashe.php:477
+msgid "Classic, List, Grid Layouts"
+msgstr "Giao diện cổ điển, danh sách, grid"
+
+#: inc/about/about-ashe.php:470
+msgid "Unlimited Colors Options"
+msgstr "Không giới hạn tùy chọn màu sắc"
+
+#: inc/about/about-ashe.php:46
+msgid "Useful Plugins"
+msgstr "Plugin hay"
+
+#: inc/about/about-ashe.php:121
+msgid "Start Customizing"
+msgstr "Bắt đầu tùy chỉnh"
+
+#. translators: %s link
+#: inc/about/about-ashe.php:153 inc/customizer/customizer.php:408
+msgid "Ashe Pro's powerful setup allows you to easily create unique looking sites. Here are a few included examples that can be installed with one click in the Pro Version. More details in the <a href=\"%s\" target=\"_blank\" >Theme Documentation</a>"
+msgstr "Ashe Pro cho phép bạn tạo nhiều web đẹp. Dưới đây là một vài ví dụ mà bạn có thể cài đặt chỉ với 1 nhấp chuột trong phiên bản Pro. Xem chi tiết tại <a href=\"%s\" target=\"_blank\" >Tài liệu hướng dẫn Theme</a>"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:118
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to personalize your site."
+msgstr "Tất cả cài đặt theme %s có thể tìm thấy trong Tùy biến Theme. Bấm \"Tùy biến\" để bắt đầu trang trí web."
+
+#: inc/about/about-ashe.php:401 inc/customizer/customizer.php:415
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Muốn biết những thay đổi mới nhất của theme? Hãy xem nhật kí thay đổi bên dưới để biết danh sách các tính năng đã cải thiện và lỗi đã sửa gần nhất."
+
+#: functions.php:301
+msgid "Left Sidebar"
+msgstr "Sidebar trái"
+
+#: functions.php:291
+msgid "Right Sidebar"
+msgstr "Sidebar phải"
+
+#: inc/customizer/customizer.php:589
+msgid "Header Background"
+msgstr "Nền Header"
+
+#: inc/about/about-ashe.php:568
+msgid "..."
+msgstr "..."
+
+#. translators: %1$s: theme name, %2$s link
+#: functions.php:106
+msgid "Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr "Cảm ơn đã chọn %1$s! Để nhận được đầy đủ tính năng của theme hãy truy cập <a href=\"%2$s\">trang Chào mừng</a>"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:20
+msgid "Welcome to %s"
+msgstr "Chào mừng đến với %s"
+
+#. translators: %1$s: theme name, %2$s link, %3$s theme author
+#: footer.php:47
+msgid "%1$s Theme by <a href=\"%2$s\">%3$s.</a>"
+msgstr "%1$s Theme tạo bởi <a href=\"%2$s\">%3$s.</a>"
+
+#: inc/customizer/customizer.php:1261
+msgid "Uppercase"
+msgstr "In hoa"
+
+#: inc/customizer/customizer.php:1258
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: inc/about/about-ashe.php:293
+msgid "Setup Colors"
+msgstr "Cài đặt màu sắc"
+
+#: inc/about/about-ashe.php:288
+msgid "Setup Copyright"
+msgstr "Cài đặt bản quyền"
+
+#: inc/about/about-ashe.php:283
+msgid "Setup Social Media"
+msgstr "Cài đặt mạng xã hội"
+
+#: inc/about/about-ashe.php:278
+msgid "Setup Logo Image"
+msgstr "Cài đặt ảnh logo"
+
+#: inc/about/about-ashe.php:275 inc/about/about-ashe.php:280
+#: inc/about/about-ashe.php:285 inc/about/about-ashe.php:290
+#: inc/about/about-ashe.php:295 inc/about/about-ashe.php:300
+#: inc/about/about-ashe.php:305 inc/about/about-ashe.php:310
+#: inc/about/about-ashe.php:315 inc/about/about-ashe.php:320
+#: inc/about/about-ashe.php:325
+msgid "Customize"
+msgstr "Tùy chỉnh"
+
+#: functions.php:355 functions.php:374 inc/about/about-ashe.php:273
+msgid "Setup Menu"
+msgstr "Cài đặt Menu"
+
+#: inc/about/about-ashe.php:266 inc/customizer/customizer.php:391
+msgid "Get Started"
+msgstr "Bắt đầu"
+
+#: inc/about/about-ashe.php:265 inc/about/about-ashe.php:270
+#: inc/about/about-ashe.php:274 inc/about/about-ashe.php:279
+#: inc/about/about-ashe.php:284 inc/about/about-ashe.php:289
+#: inc/about/about-ashe.php:294 inc/about/about-ashe.php:299
+#: inc/about/about-ashe.php:304 inc/about/about-ashe.php:309
+#: inc/about/about-ashe.php:314 inc/about/about-ashe.php:319
+#: inc/about/about-ashe.php:324 inc/about/about-ashe.php:329
+#: inc/about/about-ashe.php:333
+msgid "Watch Video"
+msgstr "Xem video"
+
+#: inc/about/about-ashe.php:83
+msgid "Install Demo Import Plugin"
+msgstr "Cài đặt plugin Demo Import"
+
+#: inc/about/about-ashe.php:81
+msgid "Activate Demo Import Plugin"
+msgstr "Kích hoạt plugin Demo Import"
+
+#: inc/about/about-ashe.php:79
+msgid "Go to Import page"
+msgstr "Đến trang Nhập dữ liệu"
+
+#: inc/about/about-ashe.php:43
+msgid "Video Tutorials"
+msgstr "Video hướng dẫn"
+
+#: inc/about/about-ashe.php:269
+msgid "Setup Instagram Widget"
+msgstr "Cài đặt Instagram Widget"
+
+#: inc/customizer/customizer.php:390
+msgid "All you need for startup: Demo Import, Video Tutorials and more. To see what Ashe theme can offer, please visit a "
+msgstr "Tất cả điều bạn cần: Dữ liệu mẫu, Video hướng dẫn và nhiều thứ. Để xem tính năng của Ashe theme, hãy truy cập"
+
+#: inc/about/about-ashe.php:298
+msgid "Setup Header Image"
+msgstr "Cài đặt ảnh header"
+
+#: inc/about/about-ashe.php:332
+msgid "Translate The Theme"
+msgstr "Dịch Theme"
+
+#: inc/about/about-ashe.php:328
+msgid "Create Blog Post"
+msgstr "Viết bài"
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: inc/customizer/customizer.php:1295
+msgid "Your Copyright Text"
+msgstr "Bản quyền"
+
+#: inc/about/about-ashe.php:313
+msgid "Setup Featured Links"
+msgstr "Cài đặt Liên kết nổi bật"
+
+#: inc/about/about-ashe.php:308
+msgid "Setup Featured Slider"
+msgstr "Cài đặt Slider nổi bật"
+
+#: inc/customizer/customizer.php:389
+msgid "Demo Import / Getting Started"
+msgstr "Nhập Demo / Bắt đầu"
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:21
+msgid "Theme Demo Preview"
+msgstr "Xem trước Demo Theme"
+
+#: inc/customizer/customizer.php:390
+msgid "Demo Preview Page."
+msgstr "Xem trước Demo."
+
+#: inc/customizer/customizer.php:1134
+msgid "Open Social Links in New Window"
+msgstr "Mở liên kết mạng xã hội trong cửa sổ mới"
+
+#: inc/customizer/customizer.php:737
+msgid "Header Options"
+msgstr "Tùy chọn Header"
+
+#: inc/customizer/customizer.php:645
+msgid "1 Column"
+msgstr "1 Cột"
+
+#: inc/about/about-ashe.php:175
+msgid "Lifestyle"
+msgstr "Phong cách"
+
+#: inc/about/about-ashe.php:460 inc/customizer/customizer.php:405
+#: inc/customizer/customizer.php:411
+msgid "Predefined Styles"
+msgstr "Giao diện mẫu"
+
+#: inc/customizer/customizer.php:646
+msgid "List Style"
+msgstr "Danh sách giao diện"
+
+#: inc/about/about-ashe.php:182 inc/customizer/customizer.php:504
+msgid "Dark"
+msgstr "Tối"
+
+#: inc/about/about-ashe.php:168
+msgid "Food"
+msgstr "Ẩm thực"
+
+#: inc/about/about-ashe.php:161
+msgid "Main"
+msgstr "Chính"
+
+#: inc/about/about-ashe.php:158 inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: inc/customizer/customizer.php:1252 inc/customizer/customizer.php:1255
+msgid "Font Family"
+msgstr "Font Family"
+
+#: inc/customizer/customizer.php:1272
+msgid "Typography Options"
+msgstr "Tùy chọn typography"
+
+#: inc/customizer/customizer.php:1248
+msgid "Kalam"
+msgstr "Kalam"
+
+#: inc/customizer/customizer.php:1247
+msgid "Rokkitt"
+msgstr "Rokkitt"
+
+#: inc/customizer/customizer.php:1246
+msgid "Open Sans"
+msgstr "Open Sans"
+
+#: inc/customizer/customizer.php:1240
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/about/about-ashe.php:484
+msgid "Advanced Slider Options"
+msgstr "Tùy chọn Slider nâng cao"
+
+#: inc/customizer/customizer.php:1095
+msgid "Single Post"
+msgstr "Bài viết"
+
+#: inc/about/about-ashe.php:217
+msgid "Style 5"
+msgstr "Kiểu 5"
+
+#: inc/about/about-ashe.php:210
+msgid "Style 4"
+msgstr "Kiểu 4"
+
+#: inc/about/about-ashe.php:203
+msgid "Style 3"
+msgstr "Kiểu 3"
+
+#: inc/about/about-ashe.php:196
+msgid "Style 2"
+msgstr "Kiểu 2"
+
+#: inc/about/about-ashe.php:162 inc/about/about-ashe.php:169
+#: inc/about/about-ashe.php:176 inc/about/about-ashe.php:183
+#: inc/about/about-ashe.php:190 inc/about/about-ashe.php:197
+#: inc/about/about-ashe.php:204 inc/about/about-ashe.php:211
+#: inc/about/about-ashe.php:218 inc/about/about-ashe.php:225
+#: inc/about/about-ashe.php:232 inc/about/about-ashe.php:239
+#: inc/about/about-ashe.php:246 inc/about/about-ashe.php:253
+msgid "Live Preview"
+msgstr "Xem trước"
+
+#: inc/about/about-ashe.php:189
+msgid "Style 1"
+msgstr "Kiểu 1"
+
+#: inc/about/about-ashe.php:252
+msgid "Style 10"
+msgstr "Kiểu 10"
+
+#: inc/about/about-ashe.php:245
+msgid "Style 9"
+msgstr "Kiểu 9"
+
+#: inc/about/about-ashe.php:238
+msgid "Style 8"
+msgstr "Kiểu 8"
+
+#: inc/about/about-ashe.php:231
+msgid "Style 7"
+msgstr "Kiểu 7"
+
+#: inc/about/about-ashe.php:224
+msgid "Style 6"
+msgstr "Kiểu 6"
+
+#: inc/about/about-ashe.php:150
+msgid "Ashe Pro - Predefined Styles"
+msgstr "Ashe Pro - Giao diện mẫu"
+
+#: inc/customizer/customizer.php:766
+msgid "Logo Options"
+msgstr "Tùy chọn logo"
+
+#: templates/sidebars/sidebar-alt.php:25
+msgid "No Widgets found in the Sidebar Alt!"
+msgstr "Không tìm thấy widget ở Sidebar Alt!"
+
+#: inc/about/about-ashe.php:491
+msgid "Advanced WooCommerce Support"
+msgstr "Hỗ trợ nâng cao WooCommerce"
+
+#: single.php:34 templates/grid/blog-grid.php:116
+msgid "You May Also Like"
+msgstr "Có thể bạn cũng thích"
+
+#: inc/preview/demo-preview.php:80
+msgid "Pages"
+msgstr "Trang"
+
+#: inc/preview/demo-preview.php:75
+msgid "Categories"
+msgstr "Chuyên mục"
+
+#: inc/preview/demo-preview.php:74 inc/preview/demo-preview.php:81
+msgid "Archives"
+msgstr "Danh sách"
+
+#: inc/preview/demo-preview.php:73
+msgid "Recent Posts"
+msgstr "Bài viết mới"
+
+#: inc/preview/demo-preview.php:72 inc/preview/demo-preview.php:79
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: inc/about/about-ashe.php:73 inc/about/about-ashe.php:264
+msgid "Demo Content"
+msgstr "Dữ liệu mẫu"
+
+#: functions.php:168 inc/about/about-ashe.php:141 inc/about/about-ashe.php:563
+msgid "Install Now"
+msgstr "Cài đặt"
+
+#: inc/about/about-ashe.php:560
+msgid "Installed"
+msgstr "Đã cài đặt"
+
+#: inc/about/about-ashe.php:438
+msgid "Ashe Pro"
+msgstr "Ashe Pro"
+
+#: inc/about/about-ashe.php:40
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/about/about-ashe.php:5 inc/customizer/customizer.php:449
+msgid "About Ashe"
+msgstr "Giới thiệu"
+
+#: inc/about/about-ashe.php:393
+msgid "Go to Support Forums"
+msgstr "Đi tới Diễn đàn hỗ trợ"
+
+#: inc/about/about-ashe.php:49 inc/customizer/customizer.php:384
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/customizer/customizer.php:380
+msgid "There are lots of reasons to upgrade to Pro version. Unlimited custom Colors, rich Typography options, multiple variation of Blog Feed layout and way much more. Also Premium Support included."
+msgstr "Có nhiều lý do để nâng cấp lên bản Pro. Không giới hạn màu sắc, nhiều tùy chọn Typography, nhiều giao diện Blog Feed và nhiều nữa. Và bao gồm cả Hỗ trợ Ưu tiên."
+
+#. translators: %s theme name
+#: inc/about/about-ashe.php:65 inc/customizer/customizer.php:399
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Cần chi tiết hơn? Hãy xem hướng dẫn đầy đủ để biết cách sử dụng %s."
+
+#: templates/grid/blog-grid.php:89 templates/grid/blog-list.php:93
+#: templates/header/featured-slider.php:99
+msgid "read more"
+msgstr "xem thêm"
+
+#: inc/about/about-ashe.php:68
+msgid "Read Full Documentation"
+msgstr "Đọc tài liệu hướng dẫn"
+
+#. translators: %s: Name of current post
+#: functions.php:394 functions.php:410
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Xem tiếp<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: functions.php:323
+msgid "Add widgets here to appear in your footer."
+msgstr "Thêm widget ở đây để hiển thị ở footer."
+
+#: functions.php:321
+msgid "Footer Widgets"
+msgstr "Widget Footer"
+
+#: inc/about/about-ashe.php:390
+msgid "Forums"
+msgstr "Diễn đàn"
+
+#: inc/about/about-ashe.php:392
+msgid "Before asking a questions it's highly recommended to search on forums, but if you can't find the solution feel free to create a new topic."
+msgstr "Trước khi đặt câu hỏi bạn nên tìm kiếm trên diễn đàn trước, và nếu bạn không thể tìm thấy giải pháp bạn có thể tạo câu hỏi miễn phí."
+
+#: inc/about/about-ashe.php:399 inc/about/about-ashe.php:402
+#: inc/customizer/customizer.php:414 inc/customizer/customizer.php:416
+msgid "Changelog"
+msgstr "Nhật kí thay đổi"
+
+#: inc/about/about-ashe.php:52
+msgid "Free vs Pro"
+msgstr "Free với Pro"
+
+#: templates/grid/blog-pagination.php:76
+msgid "Load More"
+msgstr "Tải thêm"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:523
+#: inc/customizer/customizer.php:965 inc/customizer/customizer.php:974
+#: inc/customizer/customizer.php:983
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: inc/customizer/customizer.php:727
+msgid "Background Image Size"
+msgstr "Kích thước ảnh nền"
+
+#: inc/about/about-ashe.php:451
+msgid "Header Background Image/Color/Video"
+msgstr "Nền header ảnh/màu sắc/video"
+
+#: templates/single/post-content.php:91
+msgid "By"
+msgstr "Bởi"
+
+#: templates/grid/blog-pagination.php:70
+msgid "Newer Posts"
+msgstr "Bài viết mới hơn"
+
+#: inc/customizer/customizer.php:1080
+msgid "Blog Options "
+msgstr "Tùy chọn blog"
+
+#: inc/customizer/customizer.php:1066
+msgid "Related"
+msgstr "Liên quan"
+
+#: inc/customizer/customizer.php:1041 inc/customizer/customizer.php:1113
+msgid "Show Author"
+msgstr "Hiển thị tác giả"
+
+#: inc/customizer/customizer.php:1038 inc/customizer/customizer.php:1110
+msgid "Show Comments"
+msgstr "Hiển thị bình luận"
+
+#: inc/customizer/customizer.php:1035 inc/customizer/customizer.php:1107
+msgid "Show Date"
+msgstr "Hiển thị ngày đăng"
+
+#: inc/customizer/customizer.php:1032 inc/customizer/customizer.php:1104
+msgid "Show Categories"
+msgstr "Hiển thị chuyên mục"
+
+#: inc/customizer/customizer.php:1026
+msgid "Post Pagination"
+msgstr "Hiển thị điều hướng"
+
+#: inc/customizer/customizer.php:1022
+msgid "Numeric"
+msgstr "Dạng số"
+
+#: inc/customizer/customizer.php:503 inc/customizer/customizer.php:1021
+msgid "Default"
+msgstr "Mặc định"
+
+#: inc/customizer/customizer.php:1018
+msgid "Post Description"
+msgstr "Mô tả bài viết"
+
+#: inc/customizer/customizer.php:1014
+msgid "Post Content"
+msgstr "Nội dung bài viết"
+
+#: inc/customizer/customizer.php:1013
+msgid "Post Excerpt"
+msgstr "Tóm tắt bài viết"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:524
+#: inc/customizer/customizer.php:1012 inc/customizer/customizer.php:1065
+msgid "None"
+msgstr "Không"
+
+#: inc/customizer/customizer.php:795
+msgid "Align"
+msgstr "Căn lề"
+
+#: inc/customizer/customizer.php:791
+msgid "Right"
+msgstr "Phải"
+
+#: inc/customizer/customizer.php:790
+msgid "Center"
+msgstr "Giữa"
+
+#: inc/customizer/customizer.php:789
+msgid "Left"
+msgstr "Trái"
+
+#: inc/customizer/customizer.php:780 inc/customizer/customizer.php:786
+msgid "Main Navigation"
+msgstr "Menu chính"
+
+#: inc/customizer/customizer.php:751
+msgid "Width"
+msgstr "Rộng"
+
+#: inc/customizer/customizer.php:703 inc/customizer/customizer.php:709
+msgid "Top Bar"
+msgstr "Top Bar"
+
+#: inc/customizer/customizer.php:689
+msgid "Layout Options"
+msgstr "Tùy chọn giao diện"
+
+#: inc/customizer/customizer.php:679
+msgid "Footer Width"
+msgstr "Chiều rộng Footer"
+
+#: inc/customizer/customizer.php:676
+msgid "Single Content Width"
+msgstr "Chiều rộng bài viết"
+
+#: inc/customizer/customizer.php:379
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: inc/customizer/customizer.php:298
+msgid "See Ashe PRO"
+msgstr "Xem Ashe PRO"
+
+#: inc/about/about-ashe.php:434 inc/customizer/customizer.php:381
+msgid "Get Ashe Pro"
+msgstr "Tải Ashe Pro"
+
+#: inc/about/about-ashe.php:62 inc/customizer/customizer.php:394
+#: inc/customizer/customizer.php:402
+msgid "Documentation"
+msgstr "Tài liệu hướng dẫn"
+
+#: inc/about/about-ashe.php:115
+msgid "Theme Customizer"
+msgstr "Tùy biến Theme"
+
+#: functions.php:792
+msgid "Your comment is awaiting moderation."
+msgstr "Bình luận của bạn đang chờ duyệt."
+
+#: functions.php:760 functions.php:783
+msgid "[Edit]"
+msgstr "[Sửa]"
+
+#: functions.php:659
+msgid "Type then hit Enter..."
+msgstr "Gõ và bấm Enter..."
+
+#: functions.php:659
+msgid "Search..."
+msgstr "Tìm kiếm..."
+
+#: functions.php:311
+msgid "Sidebar Alt"
+msgstr "Sidebar Alt"
+
+#: functions.php:293 functions.php:303
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Thêm widget ở đây để hiển thị ở sidebar."
+
+#: templates/grid/blog-pagination.php:64
+msgid "Older Posts"
+msgstr "Bài cũ hơn"
+
+#: templates/grid/blog-pagination.php:31
+msgid "Loading..."
+msgstr "Đang tải..."
+
+#: templates/grid/blog-grid.php:134 templates/grid/blog-list.php:116
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Rất tiếc, không có nội dung nào khớp với yêu cầu tìm kiếm của bạn. Hãy thử lại với các từ khóa khác."
+
+#: templates/grid/blog-grid.php:133 templates/grid/blog-list.php:115
+msgid "Nothing Found!"
+msgstr "Không tìm thấy gì "
+
+#: templates/grid/blog-grid.php:65 templates/grid/blog-grid.php:108
+#: templates/grid/blog-list.php:68 templates/single/post-content.php:50
+#: templates/single/post-content.php:99
+msgid "Comments"
+msgstr "Bình luận"
+
+#: inc/customizer/customizer.php:650 inc/customizer/customizer.php:1006
+msgid "Blog Page"
+msgstr "Trang blog"
+
+#: inc/customizer/customizer.php:962 inc/customizer/customizer.php:971
+#: inc/customizer/customizer.php:980 inc/customizer/customizer.php:1214
+#: inc/customizer/customizer.php:1220 inc/customizer/customizer.php:1226
+#: inc/customizer/customizer.php:1232
+msgid "URL"
+msgstr "Liên kết"
+
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:265
+#: inc/customizer/customizer-repeater/class/customizer-repeater-control.php:381
+#: inc/customizer/customizer.php:959 inc/customizer/customizer.php:968
+#: inc/customizer/customizer.php:977
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: inc/customizer/customizer.php:941 inc/customizer/customizer.php:947
+msgid "Featured Links"
+msgstr "Liên kết nổi bật"
+
+#: inc/customizer/customizer.php:927
+msgid "Slider Options "
+msgstr "Tùy chọn slider"
+
+#: inc/customizer/customizer.php:908
+msgid "Number of Slides"
+msgstr "Số slide"
+
+#: inc/customizer/customizer.php:905
+msgid "Select Category"
+msgstr "Chọn chuyên mục"
+
+#: inc/customizer/customizer.php:896
+msgid "Display Posts"
+msgstr "Hiển thị bài viết"
+
+#: inc/customizer/customizer.php:819 inc/customizer/customizer.php:825
+msgid "Featured Slider"
+msgstr "Slider nổi bật"
+
+#: inc/customizer/customizer.php:801
+msgid "Show Sidebar Icon"
+msgstr "Hiển thị icon sidebar"
+
+#: inc/customizer/customizer.php:798
+msgid "Show Search Icon"
+msgstr "Hiển thị icon tìm kiếm"
+
+#: inc/customizer/customizer.php:576 inc/customizer/customizer.php:617
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: functions.php:757
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#. translators: %s theme name
+#: functions.php:111
+msgid "Get started with %s"
+msgstr "Bắt đầu với %s"
+
+#: functions.php:236 functions.php:244 functions.php:252 functions.php:260
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:51
+msgid "Main Menu"
+msgstr "Menu chính"
+
+#: functions.php:50
+msgid "Top Menu"
+msgstr "Menu trên"
+
+#: comments.php:30
+msgid "Newer Comments"
+msgstr "Bình luận mới"
+
+#: comments.php:26
+msgid "Older Comments"
+msgstr "Bình luận cũ"
+
+#: comments.php:12
+msgid "% Comments"
+msgstr "% bình luận"
+
+#: comments.php:12
+msgid "One Comment"
+msgstr "Một bình luận"
+
+#: comments.php:12 templates/grid/blog-grid.php:65
+#: templates/grid/blog-grid.php:108 templates/grid/blog-list.php:68
+#: templates/single/post-content.php:50 templates/single/post-content.php:99
+msgid "0 Comments"
+msgstr "0 bình luận"
+
+#: inc/customizer/customizer.php:1308
+msgid "Footer Options"
+msgstr "Tùy chọn Footer"
+
+#: inc/customizer/customizer.php:1287
+msgid "Page Footer"
+msgstr "Footer trang"
+
+#: inc/customizer/customizer.php:1211 inc/customizer/customizer.php:1217
+#: inc/customizer/customizer.php:1223 inc/customizer/customizer.php:1229
+msgid "Select Icon"
+msgstr "Chọn icon"
+
+#: inc/customizer/customizer.php:1128
+msgid "Social Media"
+msgstr "Mạng xã hội"
+
+#: inc/customizer/customizer.php:1070 inc/customizer/customizer.php:1119
+msgid "Related Posts - Display"
+msgstr "Bài viết liên quan - Hiển thị"
+
+#: inc/customizer/customizer.php:1116
+msgid "Show Author Description"
+msgstr "Hiển thị giới thiệu tác giả"
+
+#: inc/customizer/customizer.php:670
+msgid "Featured Links Width"
+msgstr "Chiều rộng liên kết nổi bật"
+
+#: inc/customizer/customizer.php:667
+msgid "Featured Slider Width"
+msgstr "Chiều rộng slider nổi bật"
+
+#: 404.php:5
+msgid "Page not found!"
+msgstr "Không tìm thấy trang"
+
+#: functions.php:759 functions.php:780
+msgid "&nbsp;at&nbsp;"
+msgstr "&nbsp;tại&nbsp;"
+
+#: templates/grid/blog-grid.php:65 templates/grid/blog-grid.php:108
+#: templates/grid/blog-list.php:68 templates/single/post-content.php:50
+#: templates/single/post-content.php:99
+msgid "1 Comment"
+msgstr "1 bình luận"
+
+#: page.php:63 templates/single/post-content.php:68
+msgid "Pages:"
+msgstr "Trang:"
+
+#: inc/customizer/customizer.php:659
+msgid "Header Width"
+msgstr "Chiều rộng header"
+
+#: inc/customizer/customizer.php:641
+msgid "Enable Sticky Sidebar"
+msgstr "Bật Sticky Sidebar"
+
+#: inc/customizer/customizer.php:638
+msgid "Sidebar Width"
+msgstr "Chiều rộng sidebar"
+
+#: inc/customizer/customizer.php:632
+msgid "General Layouts"
+msgstr "Giao diện chung"
+
+#: inc/about/about-ashe.php:498
+msgid "Sticky Navigation"
+msgstr "Sticky Menu"
+
+#: inc/customizer/customizer.php:914
+msgid "Show Navigation Arrows"
+msgstr "Hiển thị mũi tên điều hướng"
+
+#: inc/customizer/customizer.php:917
+msgid "Show Pagination Dots"
+msgstr "Hiển thị dấu chấm"
+
+#: inc/customizer/customizer.php:1328
+msgid "Preloading Animation"
+msgstr "Preloading Animation"
+
+#: inc/customizer/customizer.php:1322
+msgid "Preloader"
+msgstr "Preloader"
+
+#: inc/customizer/customizer.php:655 inc/customizer/customizer.php:663
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/customizer/customizer.php:654
+msgid "Contained"
+msgstr "Contained"
+
+#: inc/customizer/customizer.php:653 inc/customizer/customizer.php:662
+msgid "Full"
+msgstr "Full"
+
+#: inc/customizer/customizer.php:673
+msgid "Content Width"
+msgstr "Chiều rộng nội dung"
+
+#: inc/customizer/customizer.php:719
+msgid "Page Header"
+msgstr "Header trang"
+
+#: inc/customizer/customizer.php:723
+msgid "Pattern"
+msgstr "Pattern"
+
+#: inc/customizer/customizer.php:722
+msgid "Cover"
+msgstr "Cover"
+
+#: inc/customizer/customizer.php:582
+msgid "Accent"
+msgstr "Màu nhấn"
+
+#: functions.php:313
+msgid "Add widgets here to appear in your alternative/fixed sidebar."
+msgstr "Thêm widget ở đây để hiển thị ở fixed sidebar."
+
+#. Author of the theme
+#, gp-priority: low
+msgid "WP Royal"
+msgstr "WP Royal"
